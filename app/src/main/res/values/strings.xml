@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Farmacia</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_medicamentos">Medicamentos</string>
+    <string name="title_suplementos">Suplementos</string>
+    <string name="title_hogar">Hogar</string>
+    <string name="title_naturistas">Naturistas</string>
+
+    <string name="title_main">Farmacia</string>
+
+</resources>
